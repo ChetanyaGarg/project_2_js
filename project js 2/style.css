@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#heading{
+    height: 60px;
+    width: 100vw;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: goldenrod;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+body{
+    background-color: greenyellow;
+}
+.position{
+    margin-top: -40px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.game{
+    height: 540px;
+    width: 540px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    
+    height: 180px;
+    width: 180px;
+    border: 1px solid black;
+    font-size: 120px;
+    background-color: white;
+    color: black;
+}
+.z0{
+    border-top-left-radius: 7px;
+}
+.t2{
+    border-top-right-radius: 7px;
+}
+.s6{
+    border-bottom-left-radius: 7px;
+}
+.e8{
+    border-bottom-right-radius: 7px;
+}
+.reset{
+    background-color: red;
+    color: white;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+   
+}
+.but{
+    position: absolute;
+    top: 300px;
+    left: 150px;
+}
+.msgdisplay{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color: #337357;
+}
+.hide{
+    display: none;
+}
+.x{
+    color: #030637;
+
+}
+.y{
+    color: #910A67;
+
+}
