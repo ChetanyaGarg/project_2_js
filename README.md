@@ -22,7 +22,7 @@ Tic Tac Toe is a classic game played between two players: Player `X` and Player 
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChetanyaGarg/project_2.git
+   git clone https://github.com/ChetanyaGarg/project_2_js.git
    ```
 2. Open `index.html` in any browser.
 3. Enjoy the game! 🎉
