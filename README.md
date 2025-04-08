@@ -41,7 +41,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Hope this fits well! Let me know if you need changes or extra details. 🚀😃
-``` 
-
-This should work great for your GitHub repository! Adding a screenshot under the **Preview** section will enhance its appeal. Let me know if you want further tweaks! 😊
