@@ -36,8 +36,5 @@ Tic Tac Toe is a classic game played between two players: Player `X` and Player 
 ## 👏 Contributing
 Feel free to fork and improve the game! Open a pull request if you have exciting new features to add. 🚀
 
-## 📝 License
-This project is open-source and available under the MIT License.
-
 ---
 
